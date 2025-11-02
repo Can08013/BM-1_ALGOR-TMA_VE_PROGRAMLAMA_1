@@ -135,17 +135,13 @@ namespace Hafta6
                 Console.WriteLine("Asal sayı yok.");
             }
 
-
-
-
-
             // Matrisi 90 Derece Çevirir
             int[,] doksan_derece = new int[N, N];
             for (int i = 0; i < N; i++)
                 for (int j = 0; j < N; j++)
                     doksan_derece[j, N - 1 - i] = matris[i, j];
 
-
+            //Sonuçları Ekrana Yazdırır
             Console.WriteLine("Asal Köşegen Toplamı: " + ana_kosegen_toplam);
             Console.WriteLine("Yardımcı Köşegen Toplamı: " + yan_kosegen_carpım);
             Console.WriteLine("Matrisdeki Negatif Sayı Sayısı: " + negatifsayı);
@@ -153,6 +149,7 @@ namespace Hafta6
             Console.WriteLine("Asal Sayıların Ortalaması: " );
             Console.WriteLine("Doksan Derece Dönmüş Matris: ");
             Console.WriteLine();
+            //90 Derece Dönmüş Matrisi Ekrana Yazdırır
             for (int i = 0; i < N; i++)
             {
                 for (int j = 0; j < N; j++)
@@ -179,3 +176,4 @@ namespace Hafta6
         }
     }
 }
+
