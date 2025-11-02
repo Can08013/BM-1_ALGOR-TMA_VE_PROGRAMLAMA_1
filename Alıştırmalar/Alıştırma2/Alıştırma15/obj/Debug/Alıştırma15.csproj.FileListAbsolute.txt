@@ -1,0 +1,7 @@
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\bin\Debug\Alıştırma15.exe.config
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\bin\Debug\Alıştırma15.exe
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\bin\Debug\Alıştırma15.pdb
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\obj\Debug\Alıştırma15.csproj.AssemblyReference.cache
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\obj\Debug\Alıştırma15.csproj.CoreCompileInputs.cache
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\obj\Debug\Alıştırma15.exe
+C:\Users\HÜSEYİN\source\repos\Alıştırma2\Alıştırma15\obj\Debug\Alıştırma15.pdb
