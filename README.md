@@ -1,1 +1,1 @@
-# BM-1_ALGOR-TMA_VE_PROGRAMLAMA_1
+# BM1003-Algoritma-ve-Programlama-1
